@@ -1,4 +1,4 @@
 #!/bin/bash
 yum install -y httpd
-
+yum update -y
 gem install haml-rails
