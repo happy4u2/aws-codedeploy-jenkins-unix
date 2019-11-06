@@ -1,3 +1,5 @@
-#!/bin/bash
-yum install -y httpd
-gem install haml-rails
+source "https://rubygems.org"
+
+gem "rake"
+gem "haml"
+
